@@ -1,0 +1,88 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Yusei Magic', sans-serif;;
+}
+.jumbotron{
+    background-image: url("img/undraw_Process_re_gws7.svg");
+    background-attachment: fixed;
+    background-size: 2700px 560px;
+    height: 505px;
+}
+.navbar{
+    background-color: #004e98;
+}
+
+.font-jumbotron{
+    position: sticky;
+    left: 50px;
+    top: 220px;
+}
+
+.section1{
+    background-color: #3a6ea5;
+    margin-top: -30px;
+    padding: 20px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.section1 hr{
+    border-bottom: 3px solid white;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+.section1-text{
+    text-align: center;
+}
+
+.img-section{
+    width: 500px;
+    height: 500px;
+}
+
+.section-text{
+    margin-top: 100px;
+}
+
+.section2 hr{
+    border-bottom: 3px solid #004e98;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+.section3 hr{
+    border-bottom: 3px solid #004e98;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+.section3{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.socmed{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.socmed hr{
+    border-bottom: 3px solid #004e98;
+    width: 100px;
+    margin-bottom: 50px;
+}
+
+.footer{
+    background-color: #3a6ea5;
+    padding: 30px;
+    color: white;
+}
+
+.footer hr{
+    border-bottom: 3px solid white;
+}
